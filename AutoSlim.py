@@ -50,6 +50,9 @@ class AutoSlimCommand(sublime_plugin.TextCommand):
   def cmd(self, use_file = False):
     # Get the ruby exec name from either the system, or from the plugin
     ruby = self.view.settings().get('ruby', self.settings.get('ruby'))
-    script_path  = os.path.join(self.plugin_path, 'slim', 'bin', "slimrb")
-    command = ruby + " '" + script_path + "' " + unicode(self.target_path)
+    script_path  = os.path.join(self.plugin_path, 'run_slim.rb')
+    if use_file:
+      command = ruby + " '" + script_path + "' " + unicode(self.target_path)
+    else:
+      command = ruby + " '" + script_path + "'"
     return command
