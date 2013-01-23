@@ -7,7 +7,7 @@ Installation
 ------------
 ### Git
 
-Checkout the plugin into your Packages directory
+1. Checkout the plugin into your Packages directory
 
     cd PLATFOMR_PACKAGE_DIR
     git clone git://github.com/TikiTDO/SlimOnSave.git
@@ -15,9 +15,9 @@ Checkout the plugin into your Packages directory
 
 ### Package Control (TODO)
 
-Open Command Palette: (Control+Shift+P` on Linux/Windows, `Command+Shift+P` on OS X
+1. Open Command Palette: (Control+Shift+P` on Linux/Windows, `Command+Shift+P` on OS X
 
-Select "Package Control: Install Package"
+2. Select "Package Control: Install Package"
 
-Select "SlimOnSave"
+3. Select "SlimOnSave"
 
