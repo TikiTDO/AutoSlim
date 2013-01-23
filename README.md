@@ -19,5 +19,5 @@ Installation
 
 2. Select "Package Control: Install Package"
 
-3. Select "SlimOnSave"
+3. Select "AutoSlim"
 
