@@ -21,3 +21,12 @@ Installation
 
 3. Select "AutoSlim"
 
+Configuration
+-------------
+
+Options and Key Bindings are available in `Preferences -> Package Settings -> AutoSlim`
+
+1. `ruby` - Path to the ruby executable
+2. `run_on_save` - Automatically parse slim files to clipboard on save (Default: false)
+
+Default hotkey for the operation is `Control+Alt+L` or `Control+Command+L`
