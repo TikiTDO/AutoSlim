@@ -5,6 +5,8 @@ This plugin parses slim files, and saves the resulting HTML to the clipboard.
 
 Installation
 ------------
+This plugin requires ruby, with the Slim gem installed.
+
 ### Git
 
 1. Checkout the plugin into your Packages directory
