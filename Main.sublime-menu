@@ -12,28 +12,28 @@
                 "children":
                 [
                     {
-                        "caption": "SlimOnSave",
+                        "caption": "AutoSlim",
                         "children":
                         [
                             {
                                 "command": "open_file",
-                                "args": {"file": "${packages}/SlimOnSave/README.md"},
+                                "args": {"file": "${packages}/AutoSlim/README.md"},
                                 "caption": "TODO README"
                             },
                             {
                                 "command": "open_file",
-                                "args": {"file": "${packages}/SlimOnSave/changelog.txt"},
+                                "args": {"file": "${packages}/AutoSlim/changelog.txt"},
                                 "caption": "TODO Change Log"
                             },
                             { "caption": "-" },
                             {
                                 "command": "open_file",
-                                "args": {"file": "${packages}/SlimOnSave/SlimOnSave.sublime-settings"},
+                                "args": {"file": "${packages}/AutoSlim/AutoSlim.sublime-settings"},
                                 "caption": "Settings – Default"
                             },
                             {
                                 "command": "open_file",
-                                "args": {"file": "${packages}/User/SlimOnSave.sublime-settings"},
+                                "args": {"file": "${packages}/User/AutoSlim.sublime-settings"},
                                 "caption": "Settings – User"
                             }
                         ]
