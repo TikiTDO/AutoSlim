@@ -13,7 +13,6 @@ This plugin requires ruby, with the Slim gem installed.
 
         cd PLATFOMR_PACKAGE_DIR
         git clone git://github.com/TikiTDO/SlimOnSave.git
-        # TODO Stuff for Slim
 
 ### Package Control
 
