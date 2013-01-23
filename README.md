@@ -13,9 +13,9 @@ Checkout the plugin into your Packages directory
 
 ### Package Control (TODO)
 
-    Open Command Palette: (Control+Shift+P` on Linux/Windows, `Command+Shift+P` on OS X
+Open Command Palette: (Control+Shift+P` on Linux/Windows, `Command+Shift+P` on OS X
 
-    Select "Package Control: Install Package"
+Select "Package Control: Install Package"
 
-    Select "SlimOnSave"
+Select "SlimOnSave"
 
