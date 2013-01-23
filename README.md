@@ -9,9 +9,9 @@ Installation
 
 1. Checkout the plugin into your Packages directory
 
-    cd PLATFOMR_PACKAGE_DIR
-    git clone git://github.com/TikiTDO/SlimOnSave.git
-    # TODO Stuff for Slim
+        cd PLATFOMR_PACKAGE_DIR
+        git clone git://github.com/TikiTDO/SlimOnSave.git
+        # TODO Stuff for Slim
 
 ### Package Control (TODO)
 
