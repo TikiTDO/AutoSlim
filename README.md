@@ -15,7 +15,7 @@ This plugin requires ruby, with the Slim gem installed.
         git clone git://github.com/TikiTDO/SlimOnSave.git
         # TODO Stuff for Slim
 
-### Package Control (TODO)
+### Package Control
 
 1. Open Command Palette - `Control+Shift+P` on Linux/Windows, `Command+Shift+P` on OS X
 
