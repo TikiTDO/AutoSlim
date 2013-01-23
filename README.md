@@ -1,4 +1,4 @@
-SlimOnSave Sublime Text 2 Plugin
+AutoSlim Sublime Text 2 Plugin
 ================================
 
 This plugin parses slim files, and saves the resulting HTML to the clipboard.
