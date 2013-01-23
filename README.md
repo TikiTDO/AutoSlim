@@ -15,7 +15,7 @@ Installation
 
 ### Package Control (TODO)
 
-1. Open Command Palette: (Control+Shift+P` on Linux/Windows, `Command+Shift+P` on OS X
+1. Open Command Palette: (`Control+Shift+P` on Linux/Windows, `Command+Shift+P` on OS X
 
 2. Select "Package Control: Install Package"
 
