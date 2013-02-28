@@ -1,4 +1,4 @@
 {
-  "run_on_save": false,
+  "save_to_html": true,
   "ruby": "C:/Ruby193/bin/ruby.exe"
 }
